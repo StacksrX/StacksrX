@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Project StacksrX
-C & C++ codes
+### Project StacksrX
+**C & C++ codes**
 bubble sort
 improved bubble sort
