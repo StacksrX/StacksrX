@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Project StacksrX
 **C & C++ codes**
-Sorting programs
-
+C++ programs
