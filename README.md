@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Project StacksrX
 **C & C++ codes**
-C++ programs
+C++ and algorithm aong with data structures.
